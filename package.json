@@ -1,0 +1,14 @@
+{
+  "name": "jade-email-doc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Tom Buchok <tom@buchok.com> (http://buchok.com/)",
+  "license": "BSD",
+  "devDependencies": {
+    "jade": "~0.35.0"
+  }
+}
