@@ -1,7 +1,7 @@
 {
   "name": "jade-email-doc",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Stop worrying about the junk stuff in the header.",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
@@ -10,5 +10,19 @@
   "license": "BSD",
   "devDependencies": {
     "jade": "~0.35.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jade": "~0.35.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tbuchok/jade-email-doc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbuchok/jade-email-doc/issues"
+  },
+  "homepage": "https://github.com/tbuchok/jade-email-doc"
 }
